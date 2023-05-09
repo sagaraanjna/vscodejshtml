@@ -4,4 +4,4 @@ function multiply()
     num2=document.getElementById("second").value;
     document.getElementById("result").innerHTML=num1*num2;
 }
-//idk //hehe
+//idk //hehe //hi
